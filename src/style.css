@@ -98,7 +98,6 @@ p {
   padding: 20px 15px;
   margin: 20px;
 }
-
 @media (min-width: 576px) {
   .d-sm-block {
     display: block;
